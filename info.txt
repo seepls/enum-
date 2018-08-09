@@ -1,0 +1,4 @@
+//enum and constructor 	
+//enum can contain constructor as it is executed separately for each enum constant at time of enum class loading 
+// cannot create enum objects explicitly and hence cant invoke enum constructor directly 
+// enum can contain NO abstract method 
